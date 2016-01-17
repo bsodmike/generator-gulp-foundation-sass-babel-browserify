@@ -1,14 +1,14 @@
 {
-  "name": "generator-foundation-gulp-browserify",
-  "version": "0.2.0",
-  "description": "Foundation, Sass, Babel, Gulp, Browserify, BrowserSync Live Reloading",
+  "name": "generator-gulp-foundation-sass-babel-browserify",
+  "version": "0.1.0",
+  "description": "Gulp, Foundation, Sass, Babel, Browserify, BrowserSync Live Reloading",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "dougmacklin/generator-foundation-gulp-browserify",
+  "repository": "bsodmike/generator-gulp-foundation-sass-babel-browserify",
   "author": {
-    "name": "Doug Macklin",
-    "email": "",
-    "url": "https://github.com/dougmacklin"
+    "name": "Michael de Silva",
+    "email": "michael@inertialbox.com",
+    "url": "https://github.com/bsodmike"
   },
   "scripts": {
     "test": "mocha"
