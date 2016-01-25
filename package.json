@@ -1,6 +1,6 @@
 {
   "name": "generator-gulp-foundation-sass-babel-browserify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gulp, Foundation, Sass, Babel, Browserify, BrowserSync Live Reloading",
   "license": "MIT",
   "main": "app/index.js",
